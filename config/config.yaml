@@ -1,0 +1,4 @@
+token: XXX-token-XXX # Authorization token (access token)
+env: dev # environment 
+zone: test # the zone name
+account: 137958 # the account id
