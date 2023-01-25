@@ -8,7 +8,7 @@ This is a command line interface (CLI) for managing zone records via the DNSimpl
 - Account ID
 
 ## Installation
-- Clone the repository: `git clone https://github.com/dnsimple-hiring/dnsimple-seint-code-test-IkehAkinyemi.git zone-records-cli`
+- Clone the repository: `git clone git@github.com:IkehAkinyemi/DNSimple-CLI.git zone-records-cli`
 - Navigate to the project directory: `cd zone-records-cli`
 - Install dependencies: `go mod tidy`
 - Build the project: `go build -o=./zone-records-cli ./cmd`
